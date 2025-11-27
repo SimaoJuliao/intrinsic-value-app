@@ -1,0 +1,4 @@
+// settings.json do VSCode
+{
+    "biome.language.css.enabled": false
+}
