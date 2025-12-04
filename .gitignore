@@ -1,9 +1,11 @@
-# Nestjs specific
-/dist
+# Front specific
+/Frontend/dist
 /Frontend/node_modules
+/Frontend/build
+/Frontend/tmp
+
+#Back specific
 /Backend/node_modules
-/build
-/tmp
 
 # Logs
 logs
